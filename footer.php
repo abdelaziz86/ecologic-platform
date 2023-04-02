@@ -1,5 +1,8 @@
 <!-- Footer -->
-<footer class="bg-dark text-center text-white" style="margin-top: 200px">
+<footer class="bg-dark text-center text-white" style="margin-top: 200px ;  
+
+
+">
   <!-- Grid container -->
   <div class="container p-4">
     <!-- Section: Social media -->

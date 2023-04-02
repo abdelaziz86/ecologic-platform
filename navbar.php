@@ -5,9 +5,10 @@
 
 <style type="text/css">
   .navStyle {
-    background: linear-gradient(to bottom, rgba(0, 23, 78, 0.6), rgba(0, 0, 0, 0.01)); 
+    /*background: linear-gradient(to bottom, rgba(0, 23, 78, 0.6), rgba(0, 0, 0, 0.01)); 
     background-color: transparent !important;
-    height : 80px; font-size: 18px;   
+    height : 80px; font-size: 18px;   */
+    background-color: rgba(33,37,41,1) !important; 
   }
 
   .buttons {

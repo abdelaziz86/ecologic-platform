@@ -9,7 +9,7 @@
 	body {
 		background: linear-gradient(217deg, rgba(2,42,138,.8), rgba(2,42,138,0) 80.71%), linear-gradient(127deg, rgba(45,62,102,.8), rgba(45,62,102,0) 80.71%), linear-gradient(336deg, rgba(12,31,73,.8), rgba(12,31,73,0) 90.71%) !important;
 		background-repeat: no-repeat !important ; 
-		height : AUTO;
+		height : auto;
 
 	}
 
