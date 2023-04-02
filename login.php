@@ -44,6 +44,10 @@ if (isset($_POST["submit"])) {
 		body {
 			    vertical-align: top;
     			background-image: url(ns_text_bg.jpg);
+    			background: linear-gradient(217deg, rgba(2,42,138,.8), rgba(2,42,138,0) 80.71%), linear-gradient(127deg, rgba(45,62,102,.8), rgba(45,62,102,0) 80.71%), linear-gradient(336deg, rgba(12,31,73,.8), rgba(12,31,73,0) 90.71%) !important;
+		background-repeat: no-repeat !important ; 
+		height : auto;
+
 		}
 		.block {
 			margin-top: 100px  ; 
@@ -146,6 +150,8 @@ if (isset($_POST["submit"])) {
 
 
 
+
+<?php include 'footer.php' ;  ?>
 
 </body>
 </html> 
